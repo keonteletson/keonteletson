@@ -1,5 +1,7 @@
 <h1>Hello and Welcome! I'm Keon'Te or Keo for short! <br/><a href="https://github.com/keonteletson">IT Technician</a>, <a href="https://www.linkedin.com/in/keonteletson/">Foundational Cybersecurity Professional</a>
 
+<h2> </h2>
+
 <h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
 - [Active Directory HomeLab](https://github.com/keonteletson/activedirurl)
