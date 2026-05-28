@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
-- [Active Directory HomeLab](https://github.com/keonteletson/ubuntu-home-server) (Currently Setting up this repo)
-- [Ubuntu Home Server](https://github.com/keonteletson/homeserver) (Currently Setting up this repo)
+- [Active Directory HomeLab](https://github.com/keonteletson/ad-homelab) (Currently Setting up this repo)
+- [Ubuntu Home Server](https://github.com/keonteletson/ubuntu-home-server) (Currently Setting up this repo)
 
 <h2>📄 Certifications:</h2>
 
