@@ -11,8 +11,6 @@
   - [Verification](https://cp.certmetrics.com/comptia/en/public/verify/credential/f9308e8e00f74082abe5e98da59b5e9f)
 - <b>ISC<sup>2</sup> Certified in Cybersecurity</b>
   - Jun 1,2025 - May 31, 2028 | Certification number : 2580917
-- <b>CompTIA A+</b>
-  - <i>In Progress</i>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="KeonTeLetson | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
