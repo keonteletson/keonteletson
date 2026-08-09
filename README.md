@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT / Cybersecurity Projects:</h2>
 
 - <b> [Active Directory HomeLab](https://github.com/keonteletson/ad-homelab) | Active Directory x Azure/Entra Experience
+- <b> [Log Analysis HomeLab](https://github.com/keonteletson/log-analysis) | Azure x Log Experience
 - <b> [Ubuntu Home Server](https://github.com/keonteletson/ubuntu-home-server) | Ubuntu/Linux and Bash Experience
 
 <h2>📄 Certifications:</h2>
