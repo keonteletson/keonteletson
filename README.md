@@ -10,6 +10,7 @@
 
 - <b>CompTIA Security+</b>
   - [Verification](https://cp.certmetrics.com/comptia/en/public/verify/credential/f9308e8e00f74082abe5e98da59b5e9f)
+- <b>CompTIA A+ (1201)</b>
 - <b>ISC<sup>2</sup> Certified in Cybersecurity</b>
   - Jun 1,2025 - May 31, 2028 | Certification number : 2580917
 <h2> 🤳 Connect with me:</h2>
